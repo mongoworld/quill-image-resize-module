@@ -1,3 +1,6 @@
+# Fork URL
+https://github.com/Etoile984816138/quill-image-resize-module
+
 # Quill ImageResize Module
 
 A module for Quill rich text editor to allow images to be resized.
